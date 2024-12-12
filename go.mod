@@ -1,6 +1,6 @@
 module example.com/rieltor-mechta-bot
 
-go 1.23.4
+go 1.22
 
 require (
 	cloud.google.com/go/auth v0.12.1 // indirect
